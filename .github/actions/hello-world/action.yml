@@ -19,4 +19,4 @@ inputs:
 
 runs:
   using: "node12"
-  main: "bread.js"
+  main: "main.js"
